@@ -29,5 +29,5 @@ class Event(BaseNews):
 
     class Meta:
         verbose_name = _('event')
-        verbose_name_plural = _('news')
+        verbose_name_plural = _('events')
 
